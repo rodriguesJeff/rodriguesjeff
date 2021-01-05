@@ -12,8 +12,8 @@
 <br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodriguesjeff&show_icons=true&count_private=true)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesjeff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesjeff&exclude_repo=cem_clipnet)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Mobile software engineer with Flutter
 - 🌱 I’m currently learning NodeJS + MongoDB
