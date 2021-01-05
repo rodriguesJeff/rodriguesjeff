@@ -9,7 +9,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodriguesjeff&show_icons=true&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodriguesjeff&show_icons=true&count_private=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesjeff&exclude_repo=cem_clipnet)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
