@@ -10,8 +10,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodriguesjeff&show_icons=true&count_private=true&theme=dracula)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesjeff&exclude_repo=cem_clipnet&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Jefferson Rodrigues's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rodriguesjeff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesjeff&exclude_repo=cem_clipnet&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Jefferson Rodrigues's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rodriguesjeff&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 - 🔭 I’m currently working on Mobile software engineer with Flutter
