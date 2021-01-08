@@ -14,7 +14,7 @@
 [![Jefferson Rodrigues's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rodriguesjeff&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
-- 🔭 I’m currently working on Mobile software engineer with Flutter
+- 🔭 I’m currently working like Mobile software engineer with Flutter
 - 🌱 I’m currently learning NodeJS + MongoDB
 - 💬 Ask me about everything (42 is the answer)
 - 📫 How to reach me: rodriguesjeff.dev@gmail.com
