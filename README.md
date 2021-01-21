@@ -10,7 +10,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodriguesjeff&show_icons=true&count_private=true&theme=dracula)
-![Imagem](https://github.com/rodriguesjeff/rodriguesjeff/blob/main/undraw_flutter_dev_wvqj.png?raw=true)
+<img src="https://github.com/rodriguesjeff/rodriguesjeff/blob/main/undraw_flutter_dev_wvqj.png?raw=true" width="350" title="hover text">
 
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesjeff&exclude_repo=cem_clipnet&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br>
