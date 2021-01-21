@@ -11,7 +11,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodriguesjeff&show_icons=true&count_private=true&theme=dracula)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesjeff&exclude_repo=cem_clipnet&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Jefferson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@rodriguesjeff&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
