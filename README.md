@@ -7,6 +7,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/php.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodriguesjeff&show_icons=true&count_private=true&theme=dracula)<br>
@@ -16,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/Thiago-spart/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodriguesJeff&theme=dracula#version3" alt="Thiago spart's streak stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodriguesJeff&theme=dracula#version3" alt="Rodrigues Jeff's streak stats"/>
   </a>
 </p>
 <details>
