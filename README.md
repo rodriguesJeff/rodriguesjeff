@@ -16,9 +16,7 @@
 ## My contribution streak 🔥 
 
 <p align="center">
-  <a href="https://github.com/rodriguesJeff/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodriguesJeff&theme=dracula#version3" alt="Rodrigues Jeff's streak stats"/>
-  </a>
 </p>
 <details>
 <summary>
