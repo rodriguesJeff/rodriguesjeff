@@ -13,7 +13,6 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodriguesjeff&show_icons=true&count_private=true&theme=dracula)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesjeff&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=rodriguesjeff&theme=dracula&column=6&row=1&margin-w=10)<br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rodriguesjeff&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My contribution streak 🔥 
