@@ -3,11 +3,8 @@
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=rodriguesjeff&show_icons=true&count_private=true&theme=dracula)
 
 ## My contribution streak 🔥 
+https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesjeff&exclude_repo=cem_clipnet&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodriguesJeff&theme=dracula#version3" alt="Rodrigues Jeff's streak stats"/>
-](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesjeff&exclude_repo=cem_clipnet&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats))
-
-<details>
 <summary>
 	More stuff about me
 </summary>
