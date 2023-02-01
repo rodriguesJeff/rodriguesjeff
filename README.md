@@ -1,9 +1,6 @@
 ### Hi there 👋
 	
-[<p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=rodriguesjeff&theme=dracula&column=6&row=1&margin-w=10">
-</p>
-](https://github-readme-stats.vercel.app/api?username=rodriguesjeff&show_icons=true&count_private=true&theme=dracula)
+(https://github-readme-stats.vercel.app/api?username=rodriguesjeff&show_icons=true&count_private=true&theme=dracula)
 
 ## My contribution streak 🔥 
 
