@@ -10,7 +10,7 @@
 <br/>
 
 - 🔭 I’m currently working like Mobile software engineer with Flutter
-- 🌱 I’m currently learning NodeJS + MongoDB
+- 🌱 I’m currently learning Clean Arch
 - 💬 Ask me about everything (42 is the answer)
 - 📫 How to reach me: rodriguesjeff.dev@gmail.com
 - 😄 Pronouns: Jedi
