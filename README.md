@@ -2,8 +2,7 @@
 Im Jefferson Rodrigues 
 <br/>
 [![wakatime](https://wakatime.com/badge/user/9420e9ba-d993-48ee-9ba2-5eea38120253.svg)](https://wakatime.com/@9420e9ba-d993-48ee-9ba2-5eea38120253)<br/>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rodriguesjeff&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@rodriguesjeff/0a73657e-fc34-436f-b2dd-3801534e0adc.png" /></a><br>
 <summary>
 	More stuff about me
 </summary>
