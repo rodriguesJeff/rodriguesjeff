@@ -1,7 +1,8 @@
 ### Hi there 👋
 Im Jefferson Rodrigues 
+<br/>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rodriguesjeff&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+<br/>
 <summary>
 	More stuff about me
 </summary>
