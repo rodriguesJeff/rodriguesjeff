@@ -12,7 +12,7 @@ Im Jefferson Rodrigues
 <br/>
 
 - 🔭 I’m currently working like Mobile software engineer with Flutter
-- 🌱 I’m currently learning NestJS
+- 🌱 I’m currently learning .NET
 - 💬 Ask me about everything (42 is the answer)
 - 📫 How to reach me: rodriguesjeff.dev@gmail.com
 - 😄 Pronouns: Jedi
