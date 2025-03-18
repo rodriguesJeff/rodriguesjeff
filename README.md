@@ -19,5 +19,5 @@ Im Jefferson Rodrigues
 - ⚡ Fun fact: i'm afraid of heights
   
 <br />
-![Jefferson's wakatime stats]([https://wakapi.dev/api/activity/chart/rodriguesjeff.svg](https://github-readme-stats.vercel.app/api/wakatime?username=rodriguesjeff&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev%2bStats%2b%2528All%2bTime%2529&layout=compact))
+[https://wakapi.dev/api/activity/chart/rodriguesjeff.svg](https://github-readme-stats.vercel.app/api/wakatime?username=rodriguesjeff&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev%2bStats%2b%2528All%2bTime%2529&layout=compact)
 <br />
