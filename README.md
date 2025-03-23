@@ -4,7 +4,6 @@ I'm Jefferson Rodrigues
 <br/>
 
 <!-- BADGES -->
-[![Today](https://wakapi.dev/api/badge/rodriguesjeff/interval:today?label=Today)](https://wakapi.dev/rodriguesjeff)  
 [![Last 30 days](https://wakapi.dev/api/badge/rodriguesjeff/interval:30_days?label=Last%2030d)](https://wakapi.dev/rodriguesjeff)  
 [![All time](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/rodriguesjeff/interval:all_time&label=All%20time&color=blue)](https://wakapi.dev/rodriguesjeff)  
 
