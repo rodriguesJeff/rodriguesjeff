@@ -1,32 +1,5 @@
-### Hi there 👋  
+## Hi there 👋  
 I'm Jefferson Rodrigues  
-
-<br/>
-
-<!-- BADGES -->
-[![Last 30 days](https://wakapi.dev/api/badge/rodriguesjeff/interval:30_days?label=Last%2030d)](https://wakapi.dev/rodriguesjeff)  
-[![All time](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/rodriguesjeff/interval:all_time&label=All%20time&color=blue)](https://wakapi.dev/rodriguesjeff)  
-
-<br/>
-
-<!-- GRÁFICO DE ATIVIDADE -->
-![Jefferson's Wakapi Activity](https://wakapi.dev/api/activity/chart/rodriguesjeff.svg)
-
-<!-- Stats (All Time) -->
-![Wakapi.dev Stats (All Time)](https://github-readme-stats.vercel.app/api/wakatime?username=rodriguesjeff&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact)
-
-<br/>
-
----
-
-### 📌 Want to know more about my experience?
-
-> 👉 Click the section below to reveal my full resume and career highlights!
-
-<details>
-<summary>🧑‍💻 Resume / CV</summary>
-
-<br/>
 
 **Jefferson David Rodrigues de Souza**  
 Software Engineer | Mobile Developer | Full Stack  
@@ -34,7 +7,16 @@ Software Engineer | Mobile Developer | Full Stack
 📧 rodriguesjeff.dev@gmail.com  
 🔗 [GitHub](https://github.com/rodriguesjeff) | [Medium](https://rodriguesjeff.medium.com)
 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 ---
+
+## 📌 Want to know more about my experience?
+
+### <summary>🧑‍💻 Resume / CV</summary>
 
 ### 🧠 Summary
 - 4+ years of experience building scalable mobile applications with Flutter  
@@ -68,6 +50,9 @@ Built DGuard Cloud from scratch with Flutter + IoT camera integration.
 Worked on Flua! (Fiat’s app) using TDD, MobX, Provider, Clean Architecture.  
 Automated CD with Fastlane, integrated Firebase services.
 
+📬 **Wanna build something amazing or just chat tech?**  
+Feel free to [email me](mailto:jdp.jeffersondavid@gmail.com?subject=Hey%20Jefferson%2C%20let%27s%20connect!&body=Hi%20Jefferson%2C%0A%0AI%20came%20across%20your%20portfolio%20and%20wanted%20to%20reach%20out...) — I’d love to hear from you!
+
 ---
 
 ### 🎓 Education
@@ -79,5 +64,3 @@ Universidade Estácio de Sá (08/2020 – 12/2024)
 ### 🌐 Languages
 - Portuguese: Native  
 - English: Intermediate (B1)
-
-</details>
