@@ -47,9 +47,9 @@ Code, break, fix, improve — repeat.
 
 ## 🚀 Skills
 
-**Fluent:** Flutter, OOP, TDD, Firebase, Git, PlayStore, AppStore, Mocktail
-**Proficient:** Node.js, Clean Code, SOLID, MUI, iOS/Android, CI/CD
-**Beginner:** SQL, AWS, Spring Boot, Heroku
+* **Fluent:** Flutter, OOP, TDD, Firebase, Git, PlayStore, AppStore, Mocktail
+* **Proficient:** Node.js, Clean Code, SOLID, MUI, iOS/Android, CI/CD
+* **Beginner:** SQL, AWS, Spring Boot, Heroku
 
 ---
 
