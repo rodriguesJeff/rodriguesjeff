@@ -38,7 +38,7 @@ Code, break, fix, improve — repeat.
 
 ### 🧠 Summary
 
-* 4+ years of experience building scalable mobile applications with Flutter
+* 6+ years of experience building scalable mobile applications with Flutter
 * Specialized in public & private sector projects
 * Skilled in mentoring and leading technical decisions
 * Tech stack: Flutter, Node.js, PHP, Firebase, Clean Architecture
