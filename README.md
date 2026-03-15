@@ -7,7 +7,7 @@ I'm Jefferson Rodrigues
 Software Engineer | Mobile Developer | Full Stack
 📍 Pernambuco, Brazil
 📧 [rodriguesjeff.dev@gmail.com](mailto:rodriguesjeff.dev@gmail.com)
-🔗 [GitHub](https://github.com/rodriguesjeff) | [Medium](https://rodriguesjeff.medium.com)
+🔗 [Portfolio](https://rodriguesjeff.me) | [GitHub](https://github.com/rodriguesjeff) | [Medium](https://rodriguesjeff.medium.com)
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge\&logo=Flutter\&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
