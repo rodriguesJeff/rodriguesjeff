@@ -23,6 +23,7 @@ Working with: **Flutter 3.x**, **Dart**, **Kotlin/Android**, **Express + Sequeli
 
 ### 🔍 Key Interests
 
+* FullStack development
 * Mobile architecture & clean code
 * Debugging native + Flutter hybrid projects
 * Performance and UX optimization
@@ -53,27 +54,6 @@ Code, break, fix, improve — repeat.
 
 ---
 
-## 👨‍💼 Experience
-
-**🔹 Blue Technology (2023 – Present)**
-
-* Sole Flutter dev on 3 public sector apps — including SANASA, with offline-first architecture & OpenStreetMap GPS routing.
-* Optimized CI/CD with Firebase & SonarQube: 🚀 **-90% deploy time**, **-80% build errors**.
-
-**🔹 IATec (2023)**
-
-* Flutter-based document scanner using the camera, with crop and internal API integration.
-
-**🔹 Seventh (2022 – 2023)**
-
-* Led rebuild of a legacy app for condo residents + created a White Label-ready architecture.
-* Built **DGuard Cloud** from scratch with Flutter + IoT camera integration.
-
-**🔹 Accenture (2021 – 2022)**
-
-* Worked on **Flua! (Fiat’s app)** using TDD, MobX, Provider, Clean Architecture.
-* Automated CD with Fastlane + Firebase integration.
-
 📬 **Wanna build something amazing or just chat tech?**
 Feel free to [email me](mailto:jdp.jeffersondavid@gmail.com?subject=Hey%20Jefferson%2C%20let%27s%20connect!&body=Hi%20Jefferson%2C%0A%0AI%20came%20across%20your%20portfolio%20and%20wanted%20to%20reach%20out...) — I’d love to hear from you!
 
@@ -81,17 +61,16 @@ Feel free to [email me](mailto:jdp.jeffersondavid@gmail.com?subject=Hey%20Jeffer
 
 ## 🎓 Education
 
-**B.Sc. in Computer and Information Systems**
-Universidade Estácio de Sá (08/2020 – 12/2024)
+**MBA em Desenvolvimento Full Stack e Cloud Computing (Pós-graduação Lato Sensu)**  
+Gran Faculdade — Ago/2025 • Jul/2026  
+Foco em Economia, Finanças e tomada estratégica de decisões.
 
 **MBA em Tecnologia da Informação (Pós-graduação Lato Sensu)**  
 Gran Faculdade — Ago/2025 • Jul/2026  
 Foco em Governança em TI e metodologias ágeis para gestão de projetos.
 
-**MBA em Economia e Gestão Empresarial (Pós-graduação Lato Sensu)**  
-Gran Faculdade — Ago/2025 • Jul/2026  
-Foco em Economia, Finanças e tomada estratégica de decisões.
-
+**B.Sc. in Computer and Information Systems**
+Universidade Estácio de Sá (08/2020 – 12/2024)
 
 ---
 
