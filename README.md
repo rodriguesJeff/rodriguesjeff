@@ -70,7 +70,8 @@ Gran Faculdade — Ago/2025 • Jul/2026
 Foco em Governança em TI e metodologias ágeis para gestão de projetos.
 
 **B.Sc. in Computer and Information Systems**
-Universidade Estácio de Sá (08/2020 – 12/2024)
+Universidade Estácio de Sá - Ago/2020 • Jun/2024
+Desenvolvimento e arquitetura de softwares, gestão de projetos
 
 ---
 
