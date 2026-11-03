@@ -4,13 +4,12 @@
 I'm Jefferson Rodrigues
 
 **Jefferson David Rodrigues de Souza**
-Software Engineer | Mobile Developer | Full Stack
-📍 Pernambuco, Brazil
+Software Engineer | Full Stack
+📍 Alagoas, Brazil
 📧 [rodriguesjeff.dev@gmail.com](mailto:rodriguesjeff.dev@gmail.com)
 🔗 [Portfolio](https://rodriguesjeff.me) | [GitHub](https://github.com/rodriguesjeff) | [Medium](https://rodriguesjeff.medium.com)
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge\&logo=Flutter\&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge\&logo=firebase)
@@ -19,7 +18,7 @@ Software Engineer | Mobile Developer | Full Stack
 
 ## 🚀 About Me
 
-Flutter developer passionate about building scalable, high-quality apps.
+Full Stack developer passionate about building scalable, high-quality apps.
 Working with: **Flutter 3.x**, **Dart**, **Kotlin/Android**, **Express + Sequelize**, **GraphQL (Hasura)**, **Dio**, **Bloc/Provider/MobX**, **Firebase**, **SQLite/Hive**, **digital PDF signatures**, custom UI components and API integrations.
 
 ### 🔍 Key Interests
